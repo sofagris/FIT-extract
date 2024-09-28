@@ -1,0 +1,6 @@
+# Ignore directories
+extracted/
+firmware/
+
+# Ignore .exe file
+*.exe
