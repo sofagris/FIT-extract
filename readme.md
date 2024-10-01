@@ -122,6 +122,7 @@ Many of the extracted files are **SquashFS** images. To mount and investigate th
 
 ![Screenshot of dump_fit](Screenshot%202024-09-28%20230108.png)
 
+
 ## License
 
 This project is licensed under the MIT License.
@@ -141,3 +142,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Contact
 
 For any questions or support, please open an issue on the GitHub repository.
+
+## **Acknowledgments**
+
+This project was developed with invaluable help from **ChatGPT** and **GitHub Copilot**. Their assistance in code generation and problem-solving was instrumental in bringing this project to fruition.
